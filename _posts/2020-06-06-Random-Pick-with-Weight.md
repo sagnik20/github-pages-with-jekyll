@@ -3,7 +3,7 @@ title: "Random-Pick-with-Weight"
 date: 2020-06-06
 ---
 
-# **Random Pick with Weight ** 
+# Random Pick with Weight  
 
 Given an array `w` of positive integers, where `w[i]` describes the weight of index `i`, write a function `pickIndex` which randomly picks an index in proportion to its weight.
 
